@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,33 +163,49 @@
       <option name="presentableId" value="Default" />
       <updated>1572482991570</updated>
     </task>
+    <task id="LOCAL-00001" summary="task1">
+      <created>1600952666885</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600952666885</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="task1" />
+    <option name="LAST_COMMIT_MESSAGE" value="task1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser" timestamp="1600952401421">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="533" y="166" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1600952401421" />
-    <state x="206" y="48" key="CommitChangelistDialog2" timestamp="1600952640618">
+    <state x="206" y="48" key="CommitChangelistDialog2" timestamp="1600952666321">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="206" y="48" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600952640618" />
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1600952630019">
+    <state x="206" y="48" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1600952666321" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1600954964986">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600952630019" />
-    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1600952630018">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1600954964986" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1600954964984">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600952630018" />
-    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1600952630017">
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1600954964984" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1600954964984">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600952630017" />
-    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1600952630018">
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1600954964984" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1600954964985">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600952630018" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1600954964985" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1600952674279">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1600952674279" />
     <state width="300" height="36" key="javadoc.popup.new" timestamp="1600952630007">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
